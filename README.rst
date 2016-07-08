@@ -4,8 +4,8 @@ SciPy 2016 Material
 
 This repository contains material related to the two contributions
 
-- *Storing Reproducible Results from Computational Experiments using Scientific Python Packages*
-- *Validating Function Arguments in Python Signal Processing Applications*
+- **Storing Reproducible Results from Computational Experiments using Scientific Python Packages**
+- **Validating Function Arguments in Python Signal Processing Applications**
 
 to be presented at the 15th annual Scientific Computing with Python (`SciPy 2016 <http://scipy2016.scipy.org/>`_) conference held in Austin, Texas, USA, July 11-17, 2016. The two contributions are part of the poster session.
 
@@ -18,7 +18,7 @@ Files Overview
 Files related to the contribution *Storing Reproducible Results from Computational Experiments using Scientific Python Packages*
 
 - *scipy16_reproducibility_poster.pdf* - The poster.
-- *magni_reproduciblity_example.ipynb* - A Jupyter IPython Notebook detailing an extensive example of the use of the `magni.reproduciblity` Python package.
+- *magni_reproduciblity_example.ipynb* - A Jupyter IPython Notebook detailing an extensive example of the use of the 'magni.reproduciblity' Python package.
 - *magni_reproducibility_example.py* - The script used to generate the results in the extensive example.
 - *mandlebrot.hdf5* - The results database that is part of the extensive example.
 
@@ -32,7 +32,7 @@ Files related to the contribution *Validating Function Arguments in Python Signa
 Magni
 -----
 
-Reference implementations of the proposed reproducibility and validation packages are part of the open source `magni` Python package. Further information about `magni` is available at
+Reference implementations of the proposed reproducibility and validation packages are part of the open source 'magni' Python package. Further information about 'magni' is available at
 
 - Official releases: http://dx.doi.org/10.5278/VBN/MISC/Magni
 - Online documentation: http://magni.readthedocs.io
