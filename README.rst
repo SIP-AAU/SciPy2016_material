@@ -45,14 +45,14 @@ Licenses
 
 The *scipy16_reproducibility_poster.pdf* poster is subject to the following copyright notice
 
-| Copyright (C) Christian Schou Oxvig, Thomas Arildsen, and Torben Larsen.
-| Aalborg University, Department of Electronic Systems, Signal and Information Processing, Fredrik Bajers Vej 7, DK-9220 Aalborg, Denmark.
-| This work is licensed under a `Creative Common Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_ (CC-BY 4.0).
+Copyright (C) Christian Schou Oxvig, Thomas Arildsen, and Torben Larsen.
+Aalborg University, Department of Electronic Systems, Signal and Information Processing, Fredrik Bajers Vej 7, DK-9220 Aalborg, Denmark.
+This work is licensed under a `Creative Common Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_ (CC-BY 4.0).
 
 The *scipy16_validation_poster.pdf* poster is subject to the following copyright notice
 
-| Copyright (C) Patrick Steffen Pedersen, Christian Schou Oxvig, Jan Østergaard, and Torben Larsen.
-| Aalborg University, Department of Electronic Systems, Signal and Information Processing, Fredrik Bajers Vej 7, DK-9220 Aalborg, Denmark.
-| This work is licensed under a `Creative Common Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_ (CC-BY 4.0).
+Copyright (C) Patrick Steffen Pedersen, Christian Schou Oxvig, Jan Østergaard, and Torben Larsen.
+Aalborg University, Department of Electronic Systems, Signal and Information Processing, Fredrik Bajers Vej 7, DK-9220 Aalborg, Denmark.
+This work is licensed under a `Creative Common Attribution 4.0 International License <http://creativecommons.org/licenses/by/4.0/>`_ (CC-BY 4.0).
 
 See the individual file for the license for the remaining files.
