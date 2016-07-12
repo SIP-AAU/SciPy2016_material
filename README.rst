@@ -18,15 +18,17 @@ Files Overview
 Files related to the contribution *Storing Reproducible Results from Computational Experiments using Scientific Python Packages*
 
 - *scipy16_reproducibility_poster.pdf* - The poster.
+- *scipy16_reproducibility_paper.pdf* - The accompanying paper (latest draft as of 071316).
 - *magni_reproduciblity_example.ipynb* - A Jupyter IPython Notebook detailing an extensive example of the use of the 'magni.reproduciblity' Python package.
 - *magni_reproducibility_example.py* - The script used to generate the results in the extensive example.
 - *mandlebrot.hdf5* - The results database that is part of the extensive example.
 
 The extensive example is also available at: http://dx.doi.org/10.5278/VBN/MISC/MagniRE
 
-Files related to the contribution *Validating Function Arguments in Python Signal Processing Applications*:
+Files related to the contribution *Validating Function Arguments in Python Signal Processing Applications*
 
 - *scipy16_validation_poster.pdf* - The poster.
+- *scipy16_validation_paper.pdf* - The accompanying paper (latest draft as of 071316).
   
 
 Magni
