@@ -7,9 +7,9 @@ This repository contains material related to the two contributions
 - **Storing Reproducible Results from Computational Experiments using Scientific Python Packages**
 - **Validating Function Arguments in Python Signal Processing Applications**
 
-to be presented at the 15th annual Scientific Computing with Python (`SciPy 2016 <http://scipy2016.scipy.org/>`_) conference held in Austin, Texas, USA, July 11-17, 2016. The two contributions are part of the poster session.
+presented at the 15th annual Scientific Computing with Python (`SciPy 2016 <http://scipy2016.scipy.org/>`_) conference held in Austin, Texas, USA, July 11-17, 2016. The two contributions were part of the poster session.
 
-Two papers that further detail the above contributions have been submitted to be included in the conference proceedings. The open peer review process may be followed on GitHub: https://github.com/scipy-conference/scipy_proceedings/pull/191 and https://github.com/scipy-conference/scipy_proceedings/pull/215
+Two papers that further detail the above contributions have been accepted for publication in the `conference proceedings <http://conference.scipy.org/proceedings/scipy2016/>`_. The open peer review process is documented on GitHub: https://github.com/scipy-conference/scipy_proceedings/pull/191 and https://github.com/scipy-conference/scipy_proceedings/pull/215
 
 
 Files Overview
@@ -18,7 +18,7 @@ Files Overview
 Files related to the contribution *Storing Reproducible Results from Computational Experiments using Scientific Python Packages*
 
 - *scipy16_reproducibility_poster.pdf* - The poster.
-- *scipy16_reproducibility_paper.pdf* - The accompanying paper (latest draft as of 071316).
+- *scipy16_reproducibility_paper.pdf* - The accompanying paper (publised version)
 - *magni_reproduciblity_example.ipynb* - A Jupyter IPython Notebook detailing an extensive example of the use of the 'magni.reproduciblity' Python package.
 - *magni_reproducibility_example.py* - The script used to generate the results in the extensive example.
 - *mandlebrot.hdf5* - The results database that is part of the extensive example.
@@ -28,7 +28,7 @@ The extensive example is also available at: http://dx.doi.org/10.5278/VBN/MISC/M
 Files related to the contribution *Validating Function Arguments in Python Signal Processing Applications*
 
 - *scipy16_validation_poster.pdf* - The poster.
-- *scipy16_validation_paper.pdf* - The accompanying paper (latest draft as of 071316).
+- *scipy16_validation_paper.pdf* - The accompanying paper (published version).
   
 
 Magni
